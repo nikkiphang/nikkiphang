@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on using GitHub
+- 🔭 I’m currently working on driving E Ink displays
 - 🌱 I’m currently learning gitHub
 - 👯 I’m looking to collaborate on entry level coding projects
 - 🤔 I’m looking for help with 
